@@ -17,7 +17,7 @@
 
 ## Dokumentasi Postman
 
-Berikut merupakan link untuk dokumentasi Rest API pada postman untuk menguji code [documentation](https://documenter.getpostman.com/view/7465872/2sA3sAhnph)
+Berikut merupakan link untuk dokumentasi Rest API pada postman untuk menguji code [dokumentasi postman](https://documenter.getpostman.com/view/7465872/2sA3sAhnph)
 
 ## Terima kasih dan semoga dapat membantu
 
